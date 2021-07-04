@@ -1,15 +1,12 @@
 # User stories
 
-1. Ca user as dori sa pot vedea meniul.
-2. Ca user as dori sa pot face comanda de acasa sau din restaurant.
-3. Ca user as dori sa pot beneficia de anumite oferte si vouchere.
-4. Ca user as dori sa am o modalitate de a-mi petrece timpul pana se finalizeaza comanda.
-5. Ca user as dori sa primesc notificari despre noutatile aduse de restaurant.
-6. Ca admin as dori sa pot modifica meniul sau sa actualizez stocul.
-7. Ca admin as dori sa pot atrage clientii prin anumite oferte si reduceri.
-8. Ca bucatar as dori sa pot vedea preparatele pe care trebuie sa le gatesc.
-9. Ca chelner as dori sa vad preparatele si masa la care trbuiesc servite.
-10. Ca chelner as dori sa pot lua comanda personal.
-11. Ca livrator as dori sa vad preparatele si adresa la care trebuiesc servite.
-12. Ca receptioner as dori sa pot repartiza clientii la anumite mese.
-13. Ca receptioner as dori sa pot atentiona chelnerul atunci cand este nevoie.
+1. Ca user as dori sa pot face o rezervare.
+2. Ca user as dori sa pot vedea facilitatile hotelului.
+3. Ca user as dori sa pot accesa un site sigur.
+4. Ca user as dori sa pot rezerva camere pentru apropiati.
+5. Ca user as dori sa primesc pe email factura emisa.
+6. Ca user anonim as dori sa pot vedea ce ofera hotelul fara a-mi crea un cont.
+7. Ca user as dori sa pot vedea obiectivele turistice din apropiere.
+8. Ca admin as dori sa-mi pot tine la curent clientii cu noile servicii.
+9. Ca admin as dori ca user-ul sa isi poata valida contul.
+10. Ca admin as dori sa actualizez disponibilitatea hotelului.
