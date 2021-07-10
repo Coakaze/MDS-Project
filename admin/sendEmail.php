@@ -35,7 +35,7 @@ for ($i = 0; $i < $num_results; $i++) {
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'rotarumariancatalin1@gmail.com';
-        $mail->Password   = '1973852852852cV@';
+        $mail->Password   = '';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
