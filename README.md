@@ -10,3 +10,10 @@
 8. Ca admin as dori sa-mi pot tine la curent clientii cu noile servicii.
 9. Ca admin as dori ca user-ul sa isi poata valida contul.
 10. Ca admin as dori sa actualizez disponibilitatea hotelului.
+
+
+
+
+Diagrama Baza de date.
+![diagramabd](https://user-images.githubusercontent.com/61266028/125165135-54e04b80-e19e-11eb-9c3d-d27594f381ae.jpg)
+
