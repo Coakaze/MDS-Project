@@ -17,3 +17,17 @@
 Diagrama Baza de date.
 ![diagramabd](https://user-images.githubusercontent.com/61266028/125165135-54e04b80-e19e-11eb-9c3d-d27594f381ae.jpg)
 
+
+
+
+
+
+
+
+
+
+
+Diagrama UML de cazuri de utilizare.
+![dagramaUMLcu](https://user-images.githubusercontent.com/61266028/125165175-83f6bd00-e19e-11eb-930b-7d3490adc0c9.jpg)
+
+
