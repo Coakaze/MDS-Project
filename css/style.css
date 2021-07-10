@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+	body {
+height: 100vh;
+display: flex;
+flex-direction: column;
+overflow-x: hidden;
+	}
+
+.spaceTop {
+	margin-top: 80px;
+}
+a{
+color: inherit;
+}
+
+.blue{
+background-color: #4285F4;
+color: #fff;
+}
+
+footer{
+width: 100%;
+margin-top: auto;
+
+}
+
+.warning {
+	display: none;
+	padding-bottom: 20px;
+}
+
+.inline {
+	display: inline;
+}
+
+.warning_date {
+	display: none;
+}
+
+#reg-form {
+	width: 100%;
+}
+
+.myblock {
+	height: 500px;
+}
