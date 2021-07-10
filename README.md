@@ -31,3 +31,11 @@ Diagrama UML de cazuri de utilizare.
 ![dagramaUMLcu](https://user-images.githubusercontent.com/61266028/125165175-83f6bd00-e19e-11eb-930b-7d3490adc0c9.jpg)
 
 
+
+
+
+Diagrama UML de stari.
+![diagramUMLstari](https://user-images.githubusercontent.com/61266028/125165518-f87e2b80-e19f-11eb-9d5a-b06b308bc76c.jpg)
+
+
+
