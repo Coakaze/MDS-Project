@@ -19,17 +19,7 @@ include("session.php");
 			<div class="logo">Sunlight</div>
 			<ul class="links">
 				<li><a href="index.php">Acasa</a></li>
-				<?php
-				if (isset($_SESSION['user'])) {
-					echo "<li><a href='booking.php'>Book</a></li>";
-				}
-				?>
-				<?php
-				if (!isset($_SESSION['user'])) {
-					echo "<li><a href='register.php'>Register</a></li>";
-				}
-				?>
-				<?php
+			
 				if (isset($_SESSION['user'])) {
 					echo "<li><a href='logout-process.php'>Logout</a></li>";
 					echo "<li><a href='profile.php'>Profile</a></li>";

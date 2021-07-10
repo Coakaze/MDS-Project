@@ -29,10 +29,6 @@ $dbname = "hotel";
 $username = "root";
 $password = "";
 
-/* $hostname = "eu-cdbr-west-03.cleardb.net";
-$dbname = "heroku_34e98ba05778979";
-$username = "ba1ca812e81380";
-$password = "c91a7ad6"; */
 
 $db = new mysqli($hostname, $username, $password, $dbname);
 if($db -> connect_error) {

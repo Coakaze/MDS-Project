@@ -116,8 +116,6 @@ $pdf->Cell($lat / 3 - 10, 4, 'Cota TVA: 19%', 'LBR', 1, 'C', 0);
 
 
 
-#$pdf->Image('bfriday.jpg',15+$lat/3,$y_save_2,46);
-
 $pdf->SetXY(10, $y_t1);
 $pdf->Cell($lat, 4, ' ', 0, 1, 'L', 0);
 

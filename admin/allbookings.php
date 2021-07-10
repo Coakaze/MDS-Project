@@ -79,7 +79,7 @@ for ($i = 0; $i < $num_results; $i++) {
     if ($row['bookingStatusId'] == 'pending') {
         echo '<div class="col-md">';
         echo '<form action="allbookings.php" method="post" id="reg-form">';
-        echo '<button name="accept_booking" value="' . $row['ID'] . '" type="submit" class="btn btn-success rounded-pill text-white deletebtn">Accept</button>'; ///button cu nume
+        echo '<button name="accept_booking" value="' . $row['ID'] . '" type="submit" class="btn btn-success rounded-pill text-white deletebtn">Accept</button>'; 
         echo '</form>';
         echo '</div>';
     }

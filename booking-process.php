@@ -19,9 +19,6 @@ if ($db->connect_error) {
     die("Connection failed" . $db->connect_error);
 }
 
-/*$dateFrom = $_POST['dateFrom'];
-$dateTo = $_POST['dateTo'];*/
-//$numberPerson = $_POST['numberPerson'];
 if (isset($_POST['dateFrom'])) {
     $dateFrom = $_POST['dateFrom'];
     $_SESSION['dateFrom'] = $dateFrom;
